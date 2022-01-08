@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Deploy 
 https://react-firebase-auth-94b6b.web.app/login
 
+`npm run build`
+`firebase deploy`
+
 ## Databese 
 Firebase
 
