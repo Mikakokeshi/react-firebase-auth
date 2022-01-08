@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deploy 
+https://react-firebase-auth-94b6b.web.app/login
+
+## Databese 
+Firebase
+
 ## Available Scripts
 
 In the project directory, you can run:
